@@ -4,6 +4,10 @@
 
 This repository hosts a state-of-the-art AI/ML-based desmoking and de-hazing algorithm designed to enhance the visibility of videos in real-time. This technology is particularly useful in scenarios involving fire and heavy smoke, providing clearer visuals that can be crucial for rescue operations and safety monitoring.
 
+<div align="center">
+  <img height="200" src="https://github.com/moulik10sharma/ResClear/assets/92577073/65d69696-3c93-4bfc-b253-a86347c29457"/>
+</div>
+
 ## Features
 
 - **Real-Time Video Processing:** Delivers immediate enhancement of video frames.
